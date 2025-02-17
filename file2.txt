@@ -1,9 +1,5 @@
 this is file2
-<<<<<<< HEAD
 change in file 2 sha
 changes in file2 in main
 change in big-fix branch
-=======
-change in big-fix branch
 change in file again
->>>>>>> bug-fixes
