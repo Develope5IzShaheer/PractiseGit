@@ -1,2 +1,3 @@
 this is fixes file
 resolve new fixes
+new bug resolve
