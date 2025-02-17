@@ -3,4 +3,5 @@ add content in file
 chane in file1
 change in file 1 again
 again change
-in bug fix
+add 2 in file1
+add 1 in file1
