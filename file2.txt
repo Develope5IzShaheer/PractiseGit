@@ -7,3 +7,5 @@ add 2 in file2
 add 1 in file2
 addeddd file2
 pink mode
+
+add dark mode
