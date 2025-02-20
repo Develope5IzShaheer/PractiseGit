@@ -7,3 +7,4 @@ add 2 in file1
 add 1 in file1
 addeddddd file1
 add same content in file1
+add same content in file1
